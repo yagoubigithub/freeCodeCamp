@@ -1,3 +1,4 @@
+<span dir="rtl">
 ---
 title: Background Opacity
 localeTitle: تعتيم الخلفية
@@ -57,3 +58,4 @@ localeTitle: تعتيم الخلفية
 لمزيد من المعلومات ، قم بزيارة [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/opacity) [خاصية Opacity CSS في CSS-Tricks](https://css-tricks.com/almanac/properties/o/opacity/)
 
 دعم المتصفح: [caniuse](https://caniuse.com/#search=opacity)
+</span>
